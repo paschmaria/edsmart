@@ -1,0 +1,2 @@
+# edsmart
+Education management project
