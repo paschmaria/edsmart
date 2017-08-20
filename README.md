@@ -1,2 +1,2 @@
 # edsmart
-Switch Education Management Project
+Education management project
